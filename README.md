@@ -18,6 +18,16 @@
 </div>
 
 ---
+<CodeBlock language="html" editable>
+<div align="center">
+  <img
+    src="./assets/blackhole.svg"
+    width="100%"
+    alt="Animated neon black hole"
+  />
+</div>
+<br/>
+</CodeBlock>
 
 ## `whoami` — About Me
 
