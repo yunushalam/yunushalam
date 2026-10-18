@@ -34,31 +34,33 @@ Hi, I'm **Yunush Alam**, a Computer Science student passionate about web develop
 
 ---
 
+
+<div align="center">
+
 ## `tech_stack` — Technologies
 
 ### Frontend Development
 
-<p>
-<img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,vite&theme=dark" alt="HTML CSS JavaScript React Tailwind and Vite"/>
-</p>
+<img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,vite&theme=dark" alt="Frontend technologies"/>
 
 ### Backend Development
 
-<p>
-<img src="https://skillicons.dev/icons?i=nodejs,express,java&theme=dark" alt="Node.js Express and Java"/>
-</p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,java&theme=dark" alt="Backend technologies"/>
 
 ### Databases
 
-<p>
-<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres&theme=dark" alt="MongoDB MySQL and PostgreSQL"/>
-</p>
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres&theme=dark" alt="Database technologies"/>
 
 ### AI, Programming & Tools
 
-<p>
-<img src="https://skillicons.dev/icons?i=python,git,github,vscode,postman&theme=dark" alt="Python Git GitHub VS Code and Postman"/>
-</p>
+<img src="https://skillicons.dev/icons?i=python,git,github,vscode,postman&theme=dark" alt="Programming and developer tools"/>
+
+<br/>
+
+**Currently exploring:** MERN Stack Development, REST APIs, Java, DSA, and AI-powered applications.
+
+</div>
+
 
 **Currently exploring:** MERN Stack Development, REST APIs, Java, DSA, and AI-powered applications.
 
