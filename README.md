@@ -1,4 +1,3 @@
-
 <div align="center">
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:080014,50:6C00FF,100:00D9FF&height=210&section=header&text=Yunush%20Alam&fontSize=52&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35&desc=CSE%20Student%20%7C%20Web%20Developer%20%7C%20AI%20Enthusiast&descSize=15&descAlignY=58" alt="Yunush Alam Developer Banner"/>
