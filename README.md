@@ -11,8 +11,8 @@
 
 <br/>
 
-<a href="https://github.com/itsvishalballia-bit">
-  <img src="https://img.shields.io/badge/GitHub-itsvishalballia--bit-8B5CF6?style=for-the-badge&logo=github&logoColor=white" alt="GitHub profile"/>
+<a href="https://github.com/yunushalam">
+  <img src="https://img.shields.io/badge/GitHub-yunushalam--bit-8B5CF6?style=for-the-badge&logo=github&logoColor=white" alt="GitHub profile"/>
 </a>
 <img src="https://img.shields.io/badge/Focus-Web%20%2B%20Java%20%2B%20AI-00D9FF?style=for-the-badge&labelColor=111827" alt="Development focus"/>
 
@@ -22,7 +22,22 @@
 
 ## `whoami` — About Me
 
-Hi! I'm **Vishal Yadav**, a Computer Science student specializing in Data Science, interested in web development, problem-solving, and AI-assisted software development.
+# 👋 Hi, I'm Yunush Alam!
+
+💻 **Aspiring MERN Stack Developer | CSE Student**
+
+🚀 Passionate about building modern web applications and solving real-world problems through code.
+
+- 🌱 Currently learning **MongoDB, Express.js, React.js & Node.js**
+- 💻 Exploring **Java, Data Structures & Algorithms**
+- 🛠️ Building projects to turn ideas into reality
+- 🎯 Focused on writing clean code and becoming a better developer every day
+- 🤝 Open to collaboration, internships, and exciting opportunities
+
+### ⚡ Code. Learn. Build. Repeat.
+
+📫 **Let's connect and build something amazing!**
+
 
 - Building and improving web development projects
 - Learning Java and Data Structures & Algorithms
@@ -34,8 +49,26 @@ Hi! I'm **Vishal Yadav**, a Computer Science student specializing in Data Scienc
 
 ---
 
-## `tech_stack` — Technologies
+## `tech_stack` — 
+## 🛠️ Tech Stack
 
+**💻 Languages:**  
+Java · JavaScript · Python · SQL
+
+**🌐 Frontend:**  
+HTML5 · CSS3 · React.js · Tailwind CSS · Vite
+
+**⚙️ Backend:**  
+Node.js · Express.js · JDBC
+
+**🗄️ Databases:**  
+MongoDB · MySQL · PostgreSQL
+
+**🔧 Tools & Platforms:**  
+Git · GitHub · VS Code · Postman
+
+**📚 Currently Exploring:**  
+MERN Stack Development · REST APIs · Data Structures & Algorithms
 <!-- Keep only technologies you can discuss in an interview -->
 
 ### Web Development
