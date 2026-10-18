@@ -1,20 +1,19 @@
 
 <div align="center">
 
-<!-- Animated neon header -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:090014,50:6C00FF,100:00D9FF&height=190&section=header&text=Vishal%20Yadav&fontSize=48&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35&desc=CSE-DS%20Student%20%7C%20Web%20Developer%20%7C%20AI%20Enthusiast&descSize=15&descAlignY=58" alt="Vishal Yadav - Developer Profile Header"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:080014,50:6C00FF,100:00D9FF&height=210&section=header&text=Yunush%20Alam&fontSize=52&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35&desc=CSE%20Student%20%7C%20Web%20Developer%20%7C%20AI%20Enthusiast&descSize=15&descAlignY=58" alt="Yunush Alam Developer Banner"/>
 
-<!-- Typing animation -->
-<a href="https://github.com/itsvishalballia-bit">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=3000&pause=900&color=00D9FF&center=true&vCenter=true&width=650&lines=Building+Web+Experiences;Learning+Java+%26+Data+Structures;Exploring+AI-Assisted+Development;Turning+Ideas+Into+Projects" alt="Animated developer introduction"/>
+<a href="https://readme-typing-svg.demolab.com">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2800&pause=800&color=00D9FF&center=true&vCenter=true&width=700&lines=Building+Modern+Web+Experiences;Exploring+Artificial+Intelligence;Learning+Java+%26+Data+Structures;Turning+Ideas+Into+Code" alt="Animated developer introduction"/>
 </a>
 
 <br/>
 
 <a href="https://github.com/yunushalam">
-  <img src="https://img.shields.io/badge/GitHub-yunushalam--bit-8B5CF6?style=for-the-badge&logo=github&logoColor=white" alt="GitHub profile"/>
+<img src="https://img.shields.io/badge/GitHub-yunushalam-8B5CF6?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>
-<img src="https://img.shields.io/badge/Focus-Web%20%2B%20Java%20%2B%20AI-00D9FF?style=for-the-badge&labelColor=111827" alt="Development focus"/>
+<img src="https://img.shields.io/badge/WEB%20DEVELOPMENT-00D9FF?style=for-the-badge&logo=googlechrome&logoColor=black" alt="Web Development"/>
+<img src="https://img.shields.io/badge/AI%20ENTHUSIAST-8B5CF6?style=for-the-badge&logo=openai&logoColor=white" alt="AI Enthusiast"/>
 
 </div>
 
@@ -22,143 +21,133 @@
 
 ## `whoami` — About Me
 
-# 👋 Hi, I'm Yunush Alam!
+Hi, I'm **Yunush Alam**, a Computer Science student passionate about web development, artificial intelligence, and building practical software projects.
 
-💻 **Aspiring MERN Stack Developer | CSE Student**
+- 🎓 Computer Science student
+- 💻 Interested in modern web development and the MERN stack
+- 🤖 Exploring AI applications and AI-assisted development
+- 🧠 Learning Java, Data Structures & Algorithms
+- 🛠️ Building projects to strengthen my practical skills
+- 🤝 Open to collaboration, internships, and learning opportunities
 
-🚀 Passionate about building modern web applications and solving real-world problems through code.
-
-- 🌱 Currently learning **MongoDB, Express.js, React.js & Node.js**
-- 💻 Exploring **Java, Data Structures & Algorithms**
-- 🛠️ Building projects to turn ideas into reality
-- 🎯 Focused on writing clean code and becoming a better developer every day
-- 🤝 Open to collaboration, internships, and exciting opportunities
-
-### ⚡ Code. Learn. Build. Repeat.
-
-📫 **Let's connect and build something amazing!**
-
-
-- Building and improving web development projects
-- Learning Java and Data Structures & Algorithms
-- Exploring practical applications of AI in software development
-- Improving my coding, debugging, and problem-solving skills
-- Working toward becoming a skilled software developer
-
-**Current goal:** Learn by building projects and writing clean, maintainable code.
+**My goal:** Build useful applications, improve my problem-solving skills, and grow as a software developer.
 
 ---
 
-## `tech_stack` — 
-## 🛠️ Tech Stack
+## `tech_stack` — Technologies
 
-**💻 Languages:**  
-Java · JavaScript · Python · SQL
-
-**🌐 Frontend:**  
-HTML5 · CSS3 · React.js · Tailwind CSS · Vite
-
-**⚙️ Backend:**  
-Node.js · Express.js · JDBC
-
-**🗄️ Databases:**  
-MongoDB · MySQL · PostgreSQL
-
-**🔧 Tools & Platforms:**  
-Git · GitHub · VS Code · Postman
-
-**📚 Currently Exploring:**  
-MERN Stack Development · REST APIs · Data Structures & Algorithms
-<!-- Keep only technologies you can discuss in an interview -->
-
-### Web Development
+### Frontend Development
 
 <p>
-<img src="https://skillicons.dev/icons?i=html,css,js&theme=dark" alt="HTML, CSS and JavaScript"/>
+<img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,vite&theme=dark" alt="HTML CSS JavaScript React Tailwind and Vite"/>
 </p>
 
-### Programming & Problem Solving
+### Backend Development
 
 <p>
-<img src="https://skillicons.dev/icons?i=java,git,github,vscode&theme=dark" alt="Java, Git, GitHub and VS Code"/>
+<img src="https://skillicons.dev/icons?i=nodejs,express,java&theme=dark" alt="Node.js Express and Java"/>
 </p>
 
-### AI & Emerging Technologies
+### Databases
 
 <p>
-<img src="https://skillicons.dev/icons?i=python&theme=dark" alt="Python"/>
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres&theme=dark" alt="MongoDB MySQL and PostgreSQL"/>
 </p>
 
-Exploring AI-assisted development and practical software engineering workflows.
+### AI, Programming & Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,git,github,vscode,postman&theme=dark" alt="Python Git GitHub VS Code and Postman"/>
+</p>
+
+**Currently exploring:** MERN Stack Development, REST APIs, Java, DSA, and AI-powered applications.
 
 ---
 
-## `featured_projects` — What I'm Building
-
-<!-- Replace these examples with your actual repository names and URLs -->
+## `featured_projects` — Selected Projects
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### Web Development Project
+### NewsAi
 
-**[Project Name](https://github.com/itsvishalballia-bit)**
+<a href="https://github.com/yunushalam/NewsAi">
+<img src="https://img.shields.io/badge/VIEW%20PROJECT-8B5CF6?style=for-the-badge&logo=github&logoColor=white" alt="View NewsAi"/>
+</a>
 
-Describe a real web application you've built, the problem it solves, and its key features.
+Explore my NewsAi project and its implementation.
 
-**Tech:** HTML, CSS, JavaScript
+<a href="https://news-ai-rosy-gamma.vercel.app/">Live Demo</a>
 
 </td>
 <td width="50%" valign="top">
 
-### Java & DSA
+### RAG Document Q&A Bot
 
-**[DSA Practice](https://github.com/itsvishalballia-bit)**
+<a href="https://github.com/yunushalam/RAG-Document-Q-A-Bot">
+<img src="https://img.shields.io/badge/VIEW%20PROJECT-00D9FF?style=for-the-badge&logo=github&logoColor=black" alt="View RAG Document Q&A Bot"/>
+</a>
 
-Add your Java solutions, problem-solving approaches, complexity analysis, and practice notes.
-
-**Tech:** Java, Data Structures & Algorithms
+Explore a document question-answering project focused on AI and retrieval-augmented generation.
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-### AI / Automation Project
+### Razorpay Clone
 
-**[AI Project](https://github.com/itsvishalballia-bit)**
+<a href="https://github.com/yunushalam/Razorpay-clone">
+<img src="https://img.shields.io/badge/VIEW%20PROJECT-8B5CF6?style=for-the-badge&logo=github&logoColor=white" alt="View Razorpay Clone"/>
+</a>
 
-Showcase an AI-assisted tool or application, including the problem, implementation, and results.
-
-**Tech:** Add the actual tools and languages used.
+A frontend recreation project inspired by Razorpay's website.
 
 </td>
 <td width="50%" valign="top">
 
-### Featured Repository
+### Book App
 
-**[Explore My Repositories](https://github.com/itsvishalballia-bit?tab=repositories)**
+<a href="https://github.com/yunushalam/Book-app">
+<img src="https://img.shields.io/badge/VIEW%20PROJECT-00D9FF?style=for-the-badge&logo=github&logoColor=black" alt="View Book App"/>
+</a>
 
-Explore my code, experiments, learning projects, and development progress.
+Explore my Java-based Book App project and its source code.
 
 </td>
 </tr>
 </table>
 
+### JavaScript Learning Repository
+
+<a href="https://github.com/yunushalam/javascriptrepo">
+<img src="https://img.shields.io/badge/EXPLORE%20JAVASCRIPT-8B5CF6?style=for-the-badge&logo=javascript&logoColor=white" alt="Explore JavaScript repository"/>
+</a>
+
+A collection of JavaScript practice covering fundamentals, control flow, loops, DOM manipulation, events, and other learning topics.
+
 ---
 
-## `github_analytics` — Development Activity
+## `github_analytics` — My GitHub Activity
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=itsvishalballia-bit&show_icons=true&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=8B5CF6&text_color=C9D1D9&rank_icon=github" alt="GitHub statistics"/>
+<a href="https://github.com/yunushalam">
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=yunushalam&show_icons=true&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=8B5CF6&text_color=C9D1D9&rank_icon=github" alt="GitHub Statistics"/>
+</a>
 
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsvishalballia-bit&layout=compact&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=C9D1D9" alt="Most used programming languages"/>
+<a href="https://github.com/yunushalam">
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yunushalam&layout=compact&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=C9D1D9" alt="Most Used Languages"/>
+</a>
 
 <br/>
 
-<img src="https://streak-stats.demolab.com?user=itsvishalballia-bit&hide_border=true&background=0D1117&ring=8B5CF6&fire=00D9FF&currStreakLabel=00D9FF&sideLabels=C9D1D9&dates=8B949E&currStreakNum=FFFFFF&sideNums=FFFFFF" alt="GitHub contribution streak"/>
+<img src="https://streak-stats.demolab.com?user=yunushalam&hide_border=true&background=0D1117&ring=8B5CF6&fire=00D9FF&currStreakLabel=00D9FF&sideLabels=C9D1D9&dates=8B949E&currStreakNum=FFFFFF&sideNums=FFFFFF" alt="GitHub Contribution Streak"/>
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:6C00FF,100:00D9FF&height=3&section=footer" width="100%" alt="Neon divider"/>
 
 </div>
 
@@ -166,40 +155,20 @@ Explore my code, experiments, learning projects, and development progress.
 
 ## `connect` — Let's Connect
 
-I'm interested in learning, building projects, and connecting with fellow developers.
+I'm always interested in learning new technologies, collaborating on projects, and connecting with fellow developers.
 
 <div align="center">
 
-<a href="https://github.com/itsvishalballia-bit">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+<a href="https://github.com/yunushalam">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Profile"/>
 </a>
 
-<!-- Add your actual LinkedIn and portfolio URLs when ready -->
+<!-- Add your verified LinkedIn and portfolio links here -->
+
+<br/><br/>
+
+### BUILD. LEARN. INNOVATE.
+
+<sub>Focused on continuous learning and building practical software.</sub>
 
 </div>
-
----
-
-<div align="center">
-
-### <span style="color:#00D9FF">BUILD. LEARN. IMPROVE. REPEAT.</span>
-
-<sub>Focused on continuous learning and practical software development.</sub>
-
-</div>
-
-
-<!--
-**yunushalam/yunushalam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
