@@ -154,19 +154,14 @@ A collection of JavaScript practice covering fundamentals, control flow, loops, 
 
 ## `github_analytics` — My GitHub Activity
 
-<p align="center">
-  <a href="https://github.com/yunushalam">
-    <img height="170"
-      src="https://github-readme-stats.vercel.app/api?username=yunushalam&show_icons=true&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=8B5CF6&text_color=C9D1D9&rank_icon=github"
-      alt="GitHub Statistics"/>
-  </a>
 
-  <a href="https://github.com/yunushalam">
-    <img height="170"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=yunushalam&layout=compact&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=C9D1D9"
-      alt="Most Used Languages"/>
-  </a>
-</p>
+<a href="https://github.com/yunushalam">
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=yunushalam&show_icons=true&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=8B5CF6&text_color=C9D1D9&rank_icon=github" alt="GitHub Statistics"/>
+</a>
+
+<a href="https://github.com/yunushalam">
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yunushalam&layout=compact&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=C9D1D9" alt="Most Used Languages"/>
+</a> what is the error in that code
 
 
 <br/>
