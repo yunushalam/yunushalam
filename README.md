@@ -152,27 +152,37 @@ A collection of JavaScript practice covering fundamentals, control flow, loops, 
 
 ---
 
+
 ## `github_analytics` — My GitHub Activity
 
+<div align="center">
 
-<p align="center">
-
-<p align="center">
   <a href="https://github.com/yunushalam">
     <img height="170"
-      src="https://github-readme-stats.vercel.app/api?username=yunushalam&show_icons=true&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=8B5CF6&text_color=C9D1D9&rank_icon=github"
+      src="./profile/stats.svg"
       alt="GitHub Statistics"/>
   </a>
 
   <a href="https://github.com/yunushalam">
     <img height="170"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=yunushalam&layout=compact&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=C9D1D9"
+      src="./profile/top-langs.svg"
       alt="Most Used Languages"/>
   </a>
-</p>
 
+  <br/><br/>
 
+  <img
+    src="https://streak-stats.demolab.com?user=yunushalam&hide_border=true&background=0D1117&ring=8B5CF6&fire=00D9FF&currStreakLabel=00D9FF&sideLabels=C9D1D9&dates=8B949E&currStreakNum=FFFFFF&sideNums=FFFFFF"
+    alt="GitHub Contribution Streak"/>
 
+  <br/><br/>
+
+  <img
+    src="https://capsule-render.vercel.app/api?type=rect&color=0:6C00FF,100:00D9FF&height=3&section=footer"
+    width="100%"
+    alt="Neon divider"/>
+
+</div>
 <br/>
 
 <img src="https://streak-stats.demolab.com?user=yunushalam&hide_border=true&background=0D1117&ring=8B5CF6&fire=00D9FF&currStreakLabel=00D9FF&sideLabels=C9D1D9&dates=8B949E&currStreakNum=FFFFFF&sideNums=FFFFFF" alt="GitHub Contribution Streak"/>
